@@ -10,6 +10,8 @@
 `git branch -M main`
 `git remote add origin https://github.com/JulioScholz/utils.git`
 `git push -u origin main`
+- Git Clone
+`git clone https://<username>:<token>@github.com/<username>/<reponame>.git`
 - Others
 `git status`
 `git fetch`
